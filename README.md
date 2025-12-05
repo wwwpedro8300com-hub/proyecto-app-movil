@@ -1,4 +1,5 @@
-<img width="368" height="525" alt="image" src="https://github.com/user-attachments/assets/7ef4c908-6e15-45e2-9501-fe4f77f717fb" />
+<img width="378" height="526" alt="image" src="https://github.com/user-attachments/assets/1f567e19-78ad-4206-b1fe-6ec152876c38" />
+
 
 Unidad 4
 
